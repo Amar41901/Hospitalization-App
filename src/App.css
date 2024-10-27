@@ -27,3 +27,7 @@ main {
 .appointments-table th {
   background-color: #f2f2f2;
 }
+
+body{
+  background-color: azure;
+}
